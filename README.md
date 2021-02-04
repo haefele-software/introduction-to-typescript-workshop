@@ -1,13 +1,13 @@
-# introduction-to-typescript-workshop
+# Introduction to TypeScript Workshop
 
-- what is typescript
-- what does typescript aim to solve
+> A workshop to act as a basic introduction to the TypeScript programming language
 
-- compiler
+## Table of Contents
+* [🎯 Goals](#goals)
 
-- Props
-- Types
-- Compiler warnings
+## 🎯 Goals
 
-- TS vs TSX
-
+- Understand what TypeScript is
+- Understand how TypeScript is transpiled to JavaScript
+- Understand how to make use of core TypeScript features
+- Rewrite a simple JavaScript application in TypeScript
