@@ -1,6 +1,6 @@
 # Introduction to TypeScript Workshop
 
-> A workshop to act as a basic introduction to the TypeScript programming language
+> A workshop to act as a basic introduction to the TypeScript programming language.
 
 ## Table of Contents
 * [🎯 Goals](#goals)
